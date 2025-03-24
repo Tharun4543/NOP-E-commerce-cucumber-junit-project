@@ -1,0 +1,233 @@
+20:29:07.905 [main] INFO  - Clicking on my account
+20:29:08.159 [main] INFO  - Clicking on login account
+20:29:09.567 [main] INFO  - Entered username and password
+20:29:10.958 [main] INFO  - Clicked on login button
+20:29:11.038 [main] INFO  - Login scenario got completed
+21:04:36.715 [main] INFO  - Clicking on my account
+21:04:36.989 [main] INFO  - Clicking on login account
+21:04:38.132 [main] INFO  - Entered username and password
+21:04:39.215 [main] INFO  - Clicked on login button
+21:04:39.304 [main] INFO  - Login scenario got completed
+21:04:45.178 [main] INFO  - click action successful for on my account and register button
+21:06:31.409 [main] INFO  - Clicking on my account
+21:06:31.627 [main] INFO  - Clicking on login account
+21:06:33.127 [main] INFO  - Entered username and password
+21:06:34.567 [main] INFO  - Clicked on login button
+21:06:34.634 [main] INFO  - Login scenario got completed
+21:06:41.428 [main] INFO  - click action successful for on my account and register button
+21:06:43.935 [main] INFO  - provided test data to the register fields and clicked on continue button
+21:10:11.115 [main] INFO  - click action successful for on my account and register button
+21:10:11.140 [main] INFO  - Test@123
+21:10:11.140 [main] INFO  - Test@123
+21:10:13.467 [main] INFO  - provided test data to the register fields and clicked on continue button
+21:11:15.444 [main] INFO  - Clicking on my account
+21:11:15.695 [main] INFO  - Clicking on login account
+21:11:17.031 [main] INFO  - Entered username and password
+21:11:17.202 [main] INFO  - Clicked on login button
+21:11:19.178 [main] INFO  - Login scenario got completed
+21:11:26.032 [main] INFO  - click action successful for on my account and register button
+21:11:29.042 [main] INFO  - provided test data to the register fields and clicked on continue button
+21:11:29.112 [main] INFO  - Scenario got completed
+21:31:33.997 [main] INFO  - Clicking on my account
+21:31:34.122 [main] INFO  - Clicking on login account
+21:31:34.905 [main] INFO  - Entered username and password
+21:31:35.014 [main] INFO  - Clicked on login button
+21:32:02.584 [main] INFO  - Clicking on my account
+21:32:02.777 [main] INFO  - Clicking on login account
+21:32:03.631 [main] INFO  - Entered username and password
+21:32:03.739 [main] INFO  - Clicked on login button
+21:32:04.663 [main] INFO  - Login scenario got completed
+21:32:07.976 [main] INFO  - Clicking on my account
+21:32:08.199 [main] INFO  - Clicking on login account
+21:32:08.995 [main] INFO  - Entered username and password
+21:32:09.659 [main] INFO  - Clicked on login button
+21:34:19.223 [main] INFO  - Clicking on my account
+21:34:19.357 [main] INFO  - Clicking on login account
+21:34:23.211 [main] INFO  - Clicking on my account
+21:34:23.910 [main] INFO  - Clicking on login account
+21:50:04.799 [main] INFO  - Clicking on my account
+21:50:04.989 [main] INFO  - Clicking on login account
+21:50:14.991 [main] INFO  - Clicking on my account
+21:50:15.327 [main] INFO  - Clicking on login account
+14:45:29.972 [main] INFO  - Clicking on my account
+14:45:30.154 [main] INFO  - Clicking on login account
+14:45:31.450 [main] INFO  - <status>
+14:48:10.280 [main] INFO  - Clicking on my account
+14:48:10.493 [main] INFO  - Clicking on login account
+14:48:11.297 [main] INFO  - Test54321@gmail.com
+14:48:11.298 [main] INFO  - <status>
+14:48:19.933 [main] INFO  - Clicking on my account
+14:48:20.218 [main] INFO  - Clicking on login account
+14:48:20.852 [main] INFO  - Test12345@gmail.com
+14:48:20.854 [main] INFO  - <status>
+14:55:56.836 [main] INFO  - Clicking on my account
+14:55:57.111 [main] INFO  - Clicking on login account
+14:55:57.912 [main] INFO  - Test54321@gmail.com
+14:55:57.912 [main] INFO  - valid
+14:56:11.942 [main] INFO  - Clicking on my account
+14:56:12.245 [main] INFO  - Clicking on login account
+14:56:12.804 [main] INFO  - Test12345@gmail.com
+14:56:12.804 [main] INFO  - invalid
+14:57:09.734 [main] INFO  - Clicking on my account
+14:57:09.986 [main] INFO  - Clicking on login account
+14:57:11.042 [main] INFO  - Test54321@gmail.com
+14:57:11.042 [main] INFO  - valid
+14:57:23.344 [main] INFO  - Clicking on my account
+14:57:23.695 [main] INFO  - Clicking on login account
+14:57:24.231 [main] INFO  - Test456@gmail.com
+14:57:24.231 [main] INFO  - invalid
+15:02:41.105 [main] INFO  - Clicking on my account
+15:02:41.319 [main] INFO  - Clicking on login account
+15:02:42.123 [main] INFO  - Test456@gmail.com
+15:02:42.123 [main] INFO  - invalid
+15:06:56.682 [main] INFO  - Clicking on my account
+15:06:56.884 [main] INFO  - Clicking on login account
+15:06:57.795 [main] INFO  - Test54321@gmail.com
+15:06:57.795 [main] INFO  - valid
+15:08:22.969 [main] INFO  - Clicking on my account
+15:08:23.198 [main] INFO  - Clicking on login account
+15:08:24.221 [main] INFO  - Test54321@gmail.com
+15:08:24.221 [main] INFO  - valid
+15:08:32.780 [main] INFO  - Clicking on my account
+15:08:33.092 [main] INFO  - Clicking on login account
+15:08:33.732 [main] INFO  - Test456@gmail.com
+15:08:33.733 [main] INFO  - invalid
+15:28:23.363 [main] INFO  - Clicking on my account
+15:28:23.499 [main] INFO  - Clicking on login account
+15:28:30.981 [main] INFO  - Clicking on my account
+15:28:31.252 [main] INFO  - Clicking on login account
+15:28:46.474 [main] INFO  - Clicking on my account
+15:28:46.669 [main] INFO  - Clicking on login account
+15:28:53.237 [main] INFO  - Clicking on my account
+15:28:53.450 [main] INFO  - Clicking on login account
+15:37:17.633 [main] INFO  - Clicking on my account
+15:37:17.805 [main] INFO  - Clicking on login account
+15:37:26.116 [main] INFO  - Clicking on my account
+15:37:26.357 [main] INFO  - Clicking on login account
+15:37:42.426 [main] INFO  - Clicking on my account
+15:37:42.672 [main] INFO  - Clicking on login account
+15:37:48.893 [main] INFO  - Clicking on my account
+15:37:49.596 [main] INFO  - Clicking on login account
+16:04:49.643 [main] INFO  - Clicking on my account
+16:04:49.849 [main] INFO  - Clicking on login account
+16:04:51.086 [main] INFO  - Entered username and password
+16:04:52.379 [main] INFO  - Clicked on login button
+16:04:52.466 [main] INFO  - Login scenario got completed
+16:04:58.963 [main] INFO  - click action successful for on my account and register button
+16:05:01.756 [main] INFO  - provided test data to the register fields and clicked on continue button
+16:05:01.819 [main] INFO  - Scenario got completed
+16:22:44.865 [main] INFO  - Clicking on my account
+16:22:45.078 [main] INFO  - Clicking on login account
+16:22:46.487 [main] INFO  - Entered username and password
+16:22:46.633 [main] INFO  - Clicked on login button
+16:22:47.608 [main] INFO  - Login scenario got completed
+16:22:56.572 [main] INFO  - click action successful for on my account and register button
+16:22:59.520 [main] INFO  - provided test data to the register fields and clicked on continue button
+16:22:59.591 [main] INFO  - Scenario got completed
+21:11:17.863 [main] INFO  - Clicking on my account
+21:11:18.058 [main] INFO  - Clicking on login account
+21:11:19.886 [main] INFO  - Entered username and password
+21:11:21.329 [main] INFO  - Clicked on login button
+21:11:21.406 [main] INFO  - Login scenario got completed
+21:14:32.514 [main] INFO  - Clicking on my account
+21:14:32.756 [main] INFO  - Clicking on login account
+21:14:34.446 [main] INFO  - Entered username and password
+21:14:35.701 [main] INFO  - Clicked on login button
+21:14:35.821 [main] INFO  - Login scenario got completed
+09:28:27.960 [main] INFO  - Clicking on my account
+09:28:28.097 [main] INFO  - Clicking on login account
+09:28:28.905 [main] INFO  - Entered username and password
+09:28:29.885 [main] INFO  - Clicked on login button
+09:28:29.934 [main] INFO  - Login scenario got completed
+20:42:37.620 [main] INFO  - Clicking on my account
+20:42:37.930 [main] INFO  - Clicking on login account
+20:42:39.391 [main] INFO  - Entered username and password
+20:42:40.581 [main] INFO  - Clicked on login button
+20:42:40.677 [main] INFO  - Login scenario got completed
+20:45:22.310 [main] INFO  - Clicking on my account
+20:45:22.513 [main] INFO  - Clicking on login account
+20:45:24.000 [main] INFO  - Entered username and password
+20:45:26.645 [main] INFO  - Clicked on login button
+20:45:26.738 [main] INFO  - Login scenario got completed
+20:47:13.929 [main] INFO  - Clicking on my account
+20:47:14.208 [main] INFO  - Clicking on login account
+20:47:15.495 [main] INFO  - Entered username and password
+20:47:15.661 [main] INFO  - Clicked on login button
+20:47:17.548 [main] INFO  - Login scenario got completed
+20:48:10.326 [main] INFO  - Clicking on my account
+20:48:10.615 [main] INFO  - Clicking on login account
+20:48:12.062 [main] INFO  - Entered username and password
+20:48:14.309 [main] INFO  - Clicked on login button
+20:48:14.391 [main] INFO  - Login scenario got completed
+20:48:18.751 [main] INFO  - Clicking on my account
+20:48:19.055 [main] INFO  - Clicking on login account
+20:48:19.630 [main] INFO  - Test54321@gmail.com
+20:48:19.630 [main] INFO  - valid
+20:48:31.654 [main] INFO  - Clicking on my account
+20:48:31.963 [main] INFO  - Clicking on login account
+20:48:32.647 [main] INFO  - Test456@gmail.com
+20:48:32.647 [main] INFO  - invalid
+20:48:49.863 [main] INFO  - Clicking on my account
+20:48:50.174 [main] INFO  - Clicking on login account
+20:49:02.144 [main] INFO  - Clicking on my account
+20:49:02.476 [main] INFO  - Clicking on login account
+20:49:21.441 [main] INFO  - Clicking on my account
+20:49:21.755 [main] INFO  - Clicking on login account
+20:58:02.696 [main] INFO  - Clicking on my account
+20:58:02.932 [main] INFO  - Clicking on login account
+20:58:04.446 [main] INFO  - Entered username and password
+20:58:05.791 [main] INFO  - Clicked on login button
+20:58:05.844 [main] INFO  - Login scenario got completed
+20:58:13.459 [main] INFO  - Clicking on my account
+20:58:13.756 [main] INFO  - Clicking on login account
+20:58:14.614 [main] INFO  - Test54321@gmail.com
+20:58:14.615 [main] INFO  - valid
+20:58:23.637 [main] INFO  - Clicking on my account
+20:58:23.964 [main] INFO  - Clicking on login account
+20:58:24.632 [main] INFO  - Test456@gmail.com
+20:58:24.632 [main] INFO  - invalid
+20:58:42.124 [main] INFO  - Clicking on my account
+20:58:42.411 [main] INFO  - Clicking on login account
+20:58:55.873 [main] INFO  - Clicking on my account
+20:58:56.112 [main] INFO  - Clicking on login account
+20:59:16.954 [main] INFO  - Clicking on my account
+20:59:17.190 [main] INFO  - Clicking on login account
+20:59:27.519 [main] INFO  - Clicking on my account
+20:59:27.768 [main] INFO  - Clicking on login account
+21:13:14.704 [main] INFO  - Clicking on my account
+21:13:14.941 [main] INFO  - Clicking on login account
+21:13:16.293 [main] INFO  - Entered username and password
+21:13:17.520 [main] INFO  - Clicked on login button
+21:13:17.590 [main] INFO  - Login scenario got completed
+21:14:21.668 [main] INFO  - Clicking on my account
+21:14:21.839 [main] INFO  - Clicking on login account
+21:14:23.091 [main] INFO  - Entered username and password
+21:14:24.385 [main] INFO  - Clicked on login button
+21:14:24.449 [main] INFO  - Login scenario got completed
+21:14:34.050 [main] INFO  - click action successful for on my account and register button
+21:14:36.927 [main] INFO  - provided test data to the register fields and clicked on continue button
+21:14:36.990 [main] INFO  - Scenario got completed
+21:18:07.933 [main] INFO  - Clicking on my account
+21:18:08.154 [main] INFO  - Clicking on login account
+21:18:09.432 [main] INFO  - Entered username and password
+21:18:09.590 [main] INFO  - Clicked on login button
+21:18:10.964 [main] INFO  - Login scenario got completed
+21:18:19.228 [main] INFO  - click action successful for on my account and register button
+21:18:22.052 [main] INFO  - provided test data to the register fields and clicked on continue button
+21:18:22.121 [main] INFO  - Scenario got completed
+21:21:42.580 [main] INFO  - Clicking on my account
+21:21:42.849 [main] INFO  - Clicking on login account
+21:21:44.240 [main] INFO  - Entered username and password
+21:21:47.298 [main] INFO  - Clicked on login button
+21:21:58.937 [main] INFO  - click action successful for on my account and register button
+21:22:01.909 [main] INFO  - provided test data to the register fields and clicked on continue button
+21:22:01.972 [main] INFO  - Scenario got completed
+21:24:02.804 [main] INFO  - Clicking on my account
+21:24:03.030 [main] INFO  - Clicking on login account
+21:24:04.381 [main] INFO  - Entered username and password
+21:24:05.615 [main] INFO  - Clicked on login button
+21:24:42.936 [main] INFO  - Clicking on my account
+21:24:43.125 [main] INFO  - Clicking on login account
+21:24:45.298 [main] INFO  - Entered username and password
+21:24:45.507 [main] INFO  - Clicked on login button
+21:24:46.737 [main] INFO  - Login scenario got completed
