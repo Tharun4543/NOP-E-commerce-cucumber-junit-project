@@ -231,3 +231,11 @@
 21:24:45.298 [main] INFO  - Entered username and password
 21:24:45.507 [main] INFO  - Clicked on login button
 21:24:46.737 [main] INFO  - Login scenario got completed
+09:19:57.536 [main] INFO  - Clicking on my account
+09:19:57.667 [main] INFO  - Clicking on login account
+09:19:58.549 [main] INFO  - Entered username and password
+09:19:59.540 [main] INFO  - Clicked on login button
+09:19:59.582 [main] INFO  - Login scenario got completed
+09:20:05.342 [main] INFO  - click action successful for on my account and register button
+09:20:08.776 [main] INFO  - provided test data to the register fields and clicked on continue button
+09:20:08.841 [main] INFO  - Scenario got completed
